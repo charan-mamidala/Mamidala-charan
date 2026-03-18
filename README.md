@@ -44,7 +44,7 @@
 
 ## 🚀 Projects
 
-### 🚲 [Adventure Works Cycles](https://github.com/charan-mamidala)
+### 🚲 [Adventure Works Cycles](https://github.com/charan-mamidala/Adventure-Works-Cycles)
 > End-to-end data analysis on the Adventure Works dataset — exploring sales trends, customer behavior, and product performance using SQL and Power BI dashboards.
 
 ### 📊 [CRM Analytics](https://github.com/charan-mamidala)
