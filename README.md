@@ -69,7 +69,7 @@
 
 | Certificate | Issuer | Link |
 |---|---|---|
-| 🏅 Data Analyst | ExcelR | [View Certificate](https://www.excelr.com) |
+| 🏅 Data Analyst | ExcelR | [View Certificate](https://drive.google.com/file/d/1Xm_Okv8I8hbFfZlPt5TeShNpP0UDFfiY/view?usp=drive_link) |
 | 🤖 AI & ML | Cantilever Labs | [View Certificate](https://cantileverlab.com) |
 
 ---
