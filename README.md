@@ -47,7 +47,7 @@
 ### 🚲 [Adventure Works Cycles](https://github.com/charan-mamidala/Adventure-Works-Cycles)
 > End-to-end data analysis on the Adventure Works dataset — exploring sales trends, customer behavior, and product performance using SQL and Power BI dashboards.
 
-### 📊 [CRM Analytics](https://github.com/charan-mamidala)
+### 📊 [CRM Analytics](https://github.com/charan-mamidala/CRM-Analytics)
 > Built CRM analytics dashboards to track leads, conversions, and customer lifecycle metrics using Python and Tableau for actionable business insights.
 
 ### 🏠 [Real Estate Marketplace — Salesforce Project](https://github.com/charan-mamidala)
