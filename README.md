@@ -41,7 +41,24 @@
 </div>
 
 ---
+---
 
+## 💼 Work Experience  
+
+### 📊 Data Analyst Intern — AI Variant  
+📍 Hyderabad | 🗓️ Sept 2025 – Mar 2026 *(6+ Months)*  
+
+🔗 [View Experience Certificate](https://drive.google.com/drive/u/0/folders/1IXc_lVkRVD1_esVg-g-FZC8tp9--uSDN)
+
+- 🤝 Collaborated with stakeholders to gather business requirements and deliver data-driven insights  
+- 🧮 Analyzed datasets using **SQL, Python, Advanced Excel, Power BI & Tableau**  
+- 🧹 Performed **data cleaning, preprocessing, and exploratory data analysis (EDA)** to identify trends and patterns  
+- 📊 Developed **interactive dashboards and KPI reports** for business and marketing performance analysis  
+- 🔄 Applied **ETL processes** to transform raw data into structured datasets for effective decision-making  
+
+--- 
+
+---
 ## 🚀 Projects
 
 ### 🚲 [Adventure Works Cycles](https://github.com/charan-mamidala/Adventure-Works-Cycles)
@@ -69,7 +86,7 @@
 
 | Certificate | Issuer | Link |
 |---|---|---|
-| 🏅 Data Analyst | ExcelR | [View Certificate](https://drive.google.com/file/d/1Xm_Okv8I8hbFfZlPt5TeShNpP0UDFfiY/view?usp=drive_link) |
+| 🏅 Data Analyst | ExcelR | [View Certificate](https://drive.google.com/file/d/1Xew0YMAqMNirt0NZbwoKRButSjcooiWL/view?usp=drive_link) |
 | 🤖 AI & ML | Cantilever Labs | [View Certificate](https://cantileverlab.com) |
 
 ---
