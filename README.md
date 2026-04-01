@@ -48,7 +48,7 @@
 ### 📊 Data Analyst Intern — AI Variant  
 📍 Hyderabad | 🗓️ Sept 2025 – Mar 2026 *(6+ Months)*  
 
-🔗 [View Experience Certificate](https://drive.google.com/drive/u/0/folders/1IXc_lVkRVD1_esVg-g-FZC8tp9--uSDN)
+🔗 [View Experience Certificate](https://drive.google.com/file/d/1ko6ELupLqaZNzSnlOJGWUga41cIShoEs/view?usp=drive_link)
 
 - 🤝 Collaborated with stakeholders to gather business requirements and deliver data-driven insights  
 - 🧮 Analyzed datasets using **SQL, Python, Advanced Excel, Power BI & Tableau**  
